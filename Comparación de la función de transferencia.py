@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 23 11:55:00 2025
-
-@author: Ángel
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -73,6 +66,7 @@ axes[1].grid(True, which="both", linestyle="--", linewidth=0.5)
 # Ajustar disposición y mostrar gráficos
 plt.tight_layout()
 plt.show()
+
 
 
 
